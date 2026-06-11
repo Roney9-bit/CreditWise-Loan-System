@@ -9,6 +9,8 @@ The project addresses the challenges faced by traditional manual loan verificati
 This system leverages historical loan application data and Machine Learning algorithms to predict whether a loan application should be approved or rejected before final human verification.
 
 ---
+Check it out here-
+[Launch Application](https://creditwise-loan-system-rg.streamlit.app/)
 
 ## Problem Statement
 
